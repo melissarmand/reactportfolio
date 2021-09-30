@@ -8,38 +8,38 @@
     },
     {
         "title": "NBA Player Search Engine",
-        "image": "./images/nbasearch.png",
+        "image": "./images/NBA Search Engine Screenshot.png",
         "description": "Search engine that uses API calls to return stats, info, and GIFs of current and former NBA players.",
         "github": "https://github.com/Jason-M-Bailey/nbaplayersearch",
         "app": "https://Jason-M-Bailey.github.io/nbaplayersearch"        
     },
     {
         "title": "Random Password Generator",
-        "image": "../images/password.png",
+        "image": "./images/Password Generator Screenshot.png",
         "description": "Simple JS app that generates a random password given parameters chosen by the user",
-        "github": "https://github.com/mgpierrelouis/May_15_HW/",
-        "app": "https://mgpierrelouis.github.io/Random_Password_Generator/"        
+        "github": "",
+        "app": "https://melissarmand.github.io/passwordgenerator/"        
     },
     {
         "title": "Webpage Refactor",
-        "image": "./images/webpagedemo.png",
+        "image": "./images/Horiseons website Screenshot.png",
         "description": "Example of clean, concise coding refactor",
-        "github": "https://github.com/mgpierrelouis/May_01_HW",
-        "app": "https://mgpierrelouis.github.io/Code_Refactor/"        
+        "github": "",
+        "app": "https://melissarmand.github.io/week-1-hw/"        
     },
     {
-        "title": "JavaScript Quiz",
-        "image": "./images/jsquiz.png",
-        "description": "Simple yet dynamic timed quiz using JS",
-        "github": "https://github.com/mgpierrelouis/May_22_HW/",
-        "app": "https://mgpierrelouis.github.io/JS_Quiz/"        
+        "title": "Day Planner",
+        "image": "./images/Day Planner Screenshot.png",
+        "description": "An online daily planner using HTML and JS",
+        "github": "",
+        "app": "https://melissarmand.github.io/dayplanner/"        
     },
     {
-        "title": "Employee Directory",
-        "image": "./images/employeedirectory.png",
-        "description": "Data table created with REACT that allows user to sort contact information of 'Employees' ",
-        "github": "https://github.com/mgpierrelouis/employee_directory",
-        "app": "https://mgpierrelouis.github.io/employee_directory/"        
+        "title": "Professional ReadMe Generator",
+        "image": "./images/readme generator GIF.gif",
+        "description": "A terminal driven program which generates a professional styled ReadMe for users ",
+        "github": "https://github.com/melissarmand/professionalreadmegenerator",
+        "app": ""        
     }
     
 ]
