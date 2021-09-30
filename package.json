@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/melissarmand/reactportfolio/issues"
   },
-  "homepage": "https://github.com/melissarmand/reactportfolio#readme",
+  "homepage": "https://melissarmand.github.io/reactportfolio/",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
